@@ -2680,49 +2680,79 @@ actionUrl:
 
     "green-campus-drive": {
   number: "02 / EVENT",
-  status: "EVENT COMPLETED",
+  status: "UPCOMING",
 
   title:
-    "Environmental Club Orientation & Oath-Taking Ceremony",
+    "World Tourism Day 2026",
 
   intro:
-    "Introducing the Environmental Club, welcoming new students and formally inducting its Executive Committee and chapter teams.",
-
+"Digital Tourism. Intelligent Ideas. New Possibilities.",
   date:
-    "14 September 2026",
-
+"29 September 2026",
   time:
-    "2:00 PM to 3:00 PM",
+     "To be announced",
 
   venue:
-    "CEES Seminar Room, College of Earth & Environmental Sciences, University of the Punjab, Lahore",
-
+ "College of Earth & Environmental Sciences, University of the Punjab, Lahore",
   description:
-    "The Environmental Club Orientation and Oath-Taking Ceremony will introduce the club to new students and provide an overview of its vision, activities and three student-led chapters. The ceremony will also formally mark the commitment of the Environmental Club's Executive Committee and representatives of its three chapters through an oath-taking ceremony. Certificates will also be presented to students who volunteered at the Provincial Climate Change Exhibition 2026 in recognition of their participation and support.",
+    "The Tourism & Hospitality Management Chapter presents a special departmental event celebrating World Tourism Day 2026. The event explores how Artificial Intelligence, digital transformation, creativity and innovation are reshaping tourism and hospitality. Students will engage in challenges, competitions, discussions and creative activities designed to explore the future of tourism in the digital age.",
 
   highlights: [
-    "Introduction to the Environmental Club",
-    "Orientation for newly admitted students",
-    "Introduction to the three Environmental Club chapters",
-    "Oath-taking ceremony of the Executive Committee",
-    "Oath-taking of representatives of all three chapters",
-    "Certificate distribution to Provincial Climate Change Exhibition 2026 volunteers",
-    "Introduction to upcoming club activities and opportunities"
+     "AI & the Future of Tourism Panel Discussion",
+    "AI in Tourism Challenge",
+    "Digital Destination Marketing Competition",
+    "Tourism Quiz",
+    "AI-Powered Travel Itinerary Challenge",
+    "Photography & Reel Competition",
+    "Cultural & Culinary Showcase",
+    "Expert Session on the Future of Tourism"
   ],
 
   actionText:
-    "Join us as we welcome new students and formally begin a new chapter for the Environmental Club.",
+    "Join the Tourism & Hospitality Management Chapter as we explore how AI, digital innovation and creativity are redefining the future of tourism.",
 
   actionLabel:
-    "Join the Club",
+    "Event Details",
 
   actionUrl:
     ""
 },
+ "eco-heritage": {
+  number: "03 / CHANNEL",
+  status: "ANNOUNCEMENT",
+  title: "EcoHeritage",
 
+  intro:
+    "A channel by Prof. Dr. Abdul Qadir exploring nature, culture, heritage and sustainable tourism.",
 
+  date: "NOW LIVE",
+
+  time: "Available Online",
+
+  venue: "EcoHeritage YouTube Channel",
+
+  description:
+    "EcoHeritage is the channel of Prof. Dr. Abdul Qadir, featuring content that explores Pakistan’s natural and cultural heritage, tourism, environment and the relationship between people and places. Subscribe to the channel to discover engaging insights and perspectives on the landscapes, traditions and heritage that shape our world.",
+
+  highlights: [
+    "Nature and environmental insights",
+    "Pakistan’s cultural and natural heritage",
+    "Sustainable tourism perspectives",
+    "Exploration of destinations and landscapes",
+    "Educational and engaging content",
+    "Content by Prof. Dr. Abdul Qadir"
+  ],
+
+  actionText:
+    "Subscribe to EcoHeritage and stay connected with content exploring nature, culture, heritage and sustainable tourism.",
+
+  actionLabel: "Subscribe to EcoHeritage",
+
+  actionUrl:
+    "https://www.youtube.com/channel/UCT66nz5Bbn2gP3FDwOZuJKA"
+},
   "earth-talks": {
-  number: "03 / EVENT",
+  number: "04 / EVENT",
   status: "EVENT COMPLETED",
   title: "Scientia Spectrum 2026",
   intro: "CEES × UET | A collaborative science event bringing students together through knowledge, creativity and scientific engagement.",
